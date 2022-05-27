@@ -1,0 +1,8 @@
+C:\Users\kdool\OneDrive\Documents\CIS 123\cse7_allfiles\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\kdool\OneDrive\Documents\CIS 123\cse7_allfiles\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\kdool\OneDrive\Documents\CIS 123\cse7_allfiles\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\kdool\OneDrive\Documents\CIS 123\cse7_allfiles\C#\ConsoleApp1\ConsoleApp1\obj\Debug\Classes_Practice.csproj.AssemblyReference.cache
+C:\Users\kdool\OneDrive\Documents\CIS 123\cse7_allfiles\C#\ConsoleApp1\ConsoleApp1\obj\Debug\Classes_Practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\kdool\OneDrive\Documents\CIS 123\cse7_allfiles\C#\ConsoleApp1\ConsoleApp1\obj\Debug\Classes_Practice.csproj.CoreCompileInputs.cache
+C:\Users\kdool\OneDrive\Documents\CIS 123\cse7_allfiles\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\kdool\OneDrive\Documents\CIS 123\cse7_allfiles\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
